@@ -14,11 +14,11 @@
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.css'); /* change */
 
 :root {
-  --background: url('https://mcdn.wallpapersafari.com/medium/22/4/nVASpg.jpg');
+  --background: url('https://raw.githubusercontent.com/chloethesis/my-theme-discord/main/_res/background.jpg');
   --backgroundsize: cover;
   --backgroundposition: center;
   --backgroundblur: 1px;
-  --popout: url('https://mcdn.wallpapersafari.com/medium/22/4/nVASpg.jpg');
+  --popout: url('https://raw.githubusercontent.com/chloethesis/my-theme-discord/main/_res/background.jpg');
   --popoutsize: var(--backgroundsize);
   --backgroundposition: center;
   --popoutblur: 1px;
