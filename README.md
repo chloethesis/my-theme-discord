@@ -1,3 +1,6 @@
 <img src="/assets/profile.gif" style="width:100%;">
 
-<center>MY PRIVATE THEME</center>
+<center>
+  <h1>MY PRIVATE THEME
+  </h1>
+</center>
