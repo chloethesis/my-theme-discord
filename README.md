@@ -1,2 +1,1 @@
-# my-theme-discord
-🔮 Theme Discord
+<center>My Theme</center>
