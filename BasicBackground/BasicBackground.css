@@ -21,7 +21,7 @@
 	--textdarker: 				125, 125, 125;
 	--textdarkest: 				90, 90, 90;
 	
-	--background:				url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/_res/background.jpg);
+	--background:				url(https://mcdn.wallpapersafari.com/medium/22/4/nVASpg.jpg);
 	--backgroundposition:			center;
 	--backgroundsize:			cover;
 	--backgroundblur:			0;
@@ -6859,7 +6859,7 @@ html .typingindicator-folder {
 /* ~~~~		19.		UPDATENOTICE					~~~~ */
 
 html:only-child > head + body div.app_b1f720 > div.app_de4237::before {
-	content: "Your Version of   BasicBackground   by DevilBro is outdated. Please download the newest Version:	https://mwittrien.github.io/downloader/?theme=BasicBackground" !important;
+	content: "Your Version of   BasicBackground   by Chloe is outdated. Please download the newest Version:	https://mwittrien.github.io/downloader/?theme=BasicBackground" !important;
 	display: var(--version1_0_5, block) !important;
 	background-color: #4a90e2 !important;
 	box-shadow: 0 1px 5px 0 rgba(var(--transparencycolor_v), .3) !important;
@@ -7003,7 +7003,7 @@ html:only-child > head + body div.app_b1f720 > div.app_de4237 > div.layers__1c91
 	animation: unset !important;
 }
 html:only-child > head + body div.app_b1f720 > div.app_de4237 > div.layers__1c917.layers_a23c37 > div.layer__2efaa.baseLayer__8fda3 + div.layer__2efaa > div.standardSidebarView__1129a > div.sidebarRegion__60457 > div.sidebarRegionScroller__1fa7e.thin_b1c063.scrollerBase_dc3aa9.fade_ba0fa0 > nav.sidebar__9e3e2 > div.side_b4b3f6 > div.info__755e1::before {
-	content: "DevilBro" !important;
+	content: "Chloe" !important;
 	font-size: 12px !important;
 	font-weight: 600 !important;
 	color: rgb(var(--accentcolor_v)) !important;
