@@ -1,0 +1,77 @@
+/*
+
+ /$$   /$$                               /$$      /$$                              
+| $$$ | $$                              | $$$    /$$$                              
+| $$$$| $$ /$$   /$$  /$$$$$$  /$$$$$$$ | $$$$  /$$$$  /$$$$$$   /$$$$$$  /$$   /$$
+| $$ $$ $$| $$  | $$ |____  $$| $$__  $$| $$ $$/$$ $$ |____  $$ /$$__  $$| $$  | $$
+| $$  $$$$| $$  | $$  /$$$$$$$| $$  \ $$| $$  $$$| $$  /$$$$$$$| $$  \__/| $$  | $$
+| $$\  $$$| $$  | $$ /$$__  $$| $$  | $$| $$\  $ | $$ /$$__  $$| $$      | $$  | $$
+| $$ \  $$|  $$$$$$$|  $$$$$$$| $$  | $$| $$ \/  | $$|  $$$$$$$| $$      |  $$$$$$/
+|__/  \__/ \____  $$ \_______/|__/  |__/|__/     |__/ \_______/|__/       \______/ 
+           /$$  | $$ //Mada da baka                                                             
+          |  $$$$$$/                                                               
+           \______/                                                                
+
+
+--    .-""-.
+   ) (     )
+  (   )   (
+     /     )
+    (_    _)                     0_,-.__
+      (_  )_                     |_.-._/
+       (    )                    |_--..\
+        (__)                     |__--_/
+     |''   ``\                   |
+     | [FRFR] \                  |      /b.
+     |         \  ,,,---===?A`\  |  ,==y'
+   ___,,,,,---==""\        |M] \ | ;|\ |>
+           _   _   \   ___,|H,,---==""""bno,
+    o  O  (_) (_)   \ /          _     AWAW/
+                     /         _(+)_  dMM/
+      \@_,,,,,,---=="   \      \\|//  MW/
+--''''"                         ===  d/
+                                    //   SET SAIL FOR FAIL!
+                                    ,'__________________________
+   \    \    \     \               ,/~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                         _____    ,'  ~~~   .-""-.~~~~~~  .-""-.
+      .-""-.           ///==---   /`-._ ..-'      -.__..-'
+            `-.__..-' =====\\\\\\ V/  .---\.
+                      ~~~~~~~~~~~~, _',--/_.\  .-""-.
+                            .-""-.___` --  \|         -.__..-
+
+
+*/
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+@import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
+@import url('https://monstrousdev.github.io/themes/addons/user-tags.css');
+@import url("https://gibbu.github.io/BetterDiscord-Themes/addons/windows-titlebar.css");
+
+:root {
+  --background-image: url('https://8beats.co/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fjd1mlth317j4%2F6NcEHqEzO4EBiNxuIsFYCJ%2F98ab3aec2e70d2c261a8e9ab2d8f8217%2F2022-homework-website.jpg&w=768&q=80'); 
+  --background-image-blur: 0px; 
+  --background-image-size: cover; 
+  --background-image-position: center; 
+  --popout-modal-image: /*var(--background-image)*/url('https://c4.wallpaperflare.com/wallpaper/517/1020/1006/quote-mr-robot-fsociety-computer-hd-wallpaper-preview.jpg'); 
+  --popout-modal-blur: 0px; 
+  --popout-modal-size: cover; 
+  --popout-modal-position: center; 
+  --home-button-image: url('https://gibbu.github.io/BetterDiscord-Themes/FrostedGlass/assets/discord.svg'); 
+  --home-button-size: cover; 
+  --home-button-position: center; 
+  --serverlist-brightness: 0.9; 
+  --left-brightness: 0.9; 
+  --middle-brightness: 0.7; 
+  --right-brightness: 0; 
+  --popout-modal-brightness: 0.80; 
+  --gradient-primary: 103,58,183; 
+  --gradient-secondary: 63,81,181; 
+  --gradient-direction: 320deg; 
+  --tint-colour: 255,51,159; 
+  --tint-brightness: 0; 
+  --window-padding: 10px; 
+  --window-roundness: 10px; 
+  --scrollbar-colour: #4b19fd; 
+  --link-colour: #6a41fc; 
+  --font: "Quicksand", sans-serif;
+  --update-notice-1: none;
+}
