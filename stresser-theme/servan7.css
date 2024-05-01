@@ -1,0 +1,53 @@
+/**
+ * @name Servan7
+ * @author Chloe
+ * @version 1.0.5
+ * @server .gg/e3K2Gkwv
+ * @website https://chloe.github.io/defenderagain
+*/
+
+/**
+ PRIVATE! PRIVATE! PRIVATE! PRIVATE! PRIVATE! PRIVATE! PRIVATE! PRIVATE! PRIVATE! PRIVATE! PRIVATE! PRIVATE! PRIVATE! PRIVATE! PRIVATE! PRIVATE! PRIVATE! PRIVATE! PRIVATE! PRIVATE! PRIVATE! PRIVATE! PRIVATE! PRIVATE! PRIVATE! PRIVATE! PRIVATE! PRIVATE! 
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@100;300;400;500;700&display=swap');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.css'); /* change */
+
+:root {
+  --background: url('https://mcdn.wallpapersafari.com/medium/22/4/nVASpg.jpg');
+  --backgroundsize: cover;
+  --backgroundposition: center;
+  --backgroundblur: 1px;
+  --popout: url('https://mcdn.wallpapersafari.com/medium/22/4/nVASpg.jpg');
+  --popoutsize: var(--backgroundsize);
+  --backgroundposition: center;
+  --popoutblur: 1px;
+  --transparencycolor: 0,0,0;
+  --accentcolor: 71,8,215;
+  --backdrop: rgb(175,102,102,0.85);
+  --textshadow: transparent;
+  --transparencyalpha: 0.84;
+  --messagetransparency: 0.84;
+  --guildchanneltransparency: 0.84;
+  --chatinputtransparency: 1;
+  --memberlisttransparency: 0.94;
+  --font: Nunito Sans;
+  --textbrightest: 255,255,255;
+  --textbrighter: 222,222,222;
+  --textbright: 200,200,200;
+  --textdark: 160,160,160;
+  --textdarker: 125,125,125;
+  --textdarkest: 90,90,90;
+  --settingsicons: 0;
+  --backdropsize: var(--background-size);
+  --backdropblur: 0px;
+  --version1_0_5: none;
+}
+
+/**
+
+˚ʚ▬▬▬▬▬・◥◣◢◤・ ▬▬▬▬▬
+		Copyright © 2024 by Chloe
+˚ʚ▬▬▬▬▬・◥◣◢◤・ ▬▬▬▬▬
+
+*/
